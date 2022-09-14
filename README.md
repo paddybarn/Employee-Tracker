@@ -10,6 +10,7 @@
 - [License](#license)
 - [Questions](#questions)
 - [Photos](#photos)
+- [Video](#video)
 
 ## Description
 
@@ -42,3 +43,7 @@ If you have any questions please feel free to reach out to me through Github or 
 - https://github.com/paddybarn
 
 ## Photos
+![image](https://user-images.githubusercontent.com/107075686/190149833-1531b574-c42a-4e7c-8f17-c3860849ebd6.png)
+
+## Video
+https://drive.google.com/file/d/1d2QwlJdkUOecfeNXuddO6DfVyNshF_OB/view
